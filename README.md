@@ -43,3 +43,6 @@ my_streamlit_app/
 - streamlit
 - pandas
 - matplotlib
+
+
+# Use o arquivo CSV junto ao código para testes, se quiser :)
